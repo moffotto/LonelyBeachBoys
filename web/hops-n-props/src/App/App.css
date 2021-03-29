@@ -1,0 +1,46 @@
+.navbar-nav span[role=button] {
+  padding: 15px;
+  display: inline-block;
+  line-height: 20px;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+#brand {
+  color: #f5f5f5;
+  font-size: x-large;
+}
+
+.navbar > .container {
+  width: 100%;
+}
+
+.nav-links {
+  color: #9d9d9d;
+}
+
+.footer-text {
+  color: #6c757d!important;
+}
+
+.footer {
+  width: 100%;
+  background-color: #f5f5f5;
+  margin-top: 3em;
+  padding: 1em 1em 1em 1em;
+}
+
+.footer-star {
+  padding-top: 12%;
+}
+
+#footer-ul {
+  float: right;
+}
+
+#footer-links {
+  float: right;
+
+}
